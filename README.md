@@ -14,6 +14,6 @@ And this project doesn't require any setup cost. People today generally have a s
 3. Mouse2 or Right click
 4. Keyboard W,A,S,D,R keys
 
-It was build with Counter Strike: Global Offensive(CS:GO) in mind. As of now it is tested with CS:GO, It works pretty well with it. It may or may not work with other First Person Shooters. Like in Valorant, everything works except mouse movement.
+***Make Sure you are connected on the same local network. And follow as guided by Applicatons.***
 
-**more text to be added soon**
+It was build with Counter Strike: Global Offensive(CS:GO) in mind. As of now it is tested with CS:GO, It works pretty well with it. It may or may not work with other First Person Shooters. Like in Valorant, everything works except mouse movement.
