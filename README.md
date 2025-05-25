@@ -1,7 +1,4 @@
 # Desi Katta
-
-***Note: As of 22/09/2021, You need to push the apk via adb. Google play protect or something doesn't allow unsigned app to be installed on the Android system. I have submitted a Google Play Protect Appeal. Once they approve of my appeal, anyone can normally install the Published apk.***
-
 This project allows your Android smartphone to be used as a Game controller in First Person Shooter Game/Games. Your Android phone will fulfill need of both keyboard and mouse. It comes with an android app and a desktop app.
 It can also be used as general purpose remote mouse to control your pc.
 
