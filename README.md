@@ -6,7 +6,7 @@ And this project doesn't require any setup cost. People today generally have a s
 
 **Functionality Provided:** 
 > Due to limited screen space and making a comfortabale and easily usable UI. Only limited functionality is possible.(Maybe some more keys can be added in future.)
-1. Full 360 degree mouse mousement (be careful, this project suffers euclidean geometry limitations)
+1. Full 360 degree mouse mousement
 2. Mouse1 or left click
 3. Mouse2 or Right click
 4. Keyboard W,A,S,D,R keys
